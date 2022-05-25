@@ -1,0 +1,21 @@
+.tarefa-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    margin: 5px 0px;
+    color: white;
+    background-color: rgb(81, 81, 81);
+    border-radius: 5px;
+}
+
+.tarefa-titulo {
+    cursor: pointer;
+}
+
+.close-task-button {
+    background-color: rgb(81, 81, 81);
+    color: rgb(209, 209, 0);
+    border: none;
+    cursor: pointer;
+}

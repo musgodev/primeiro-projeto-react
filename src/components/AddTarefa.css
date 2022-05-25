@@ -1,0 +1,31 @@
+.add-tarefa-flex {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.tarefa-input {
+    height: 20px;
+    background-color: rgb(81, 81, 81);
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+    height: 40px;
+    padding: 0 10px;
+    color: white;
+    flex: 2;
+}
+
+.tarefa-input:hover {
+    border: 1px solid rgb(209, 209, 0);
+    transition: all .4s;
+}
+
+.tarefa-input:focus {
+    border: 1px solid rgb(209, 209, 0);
+    outline: none;
+}
+
+
+

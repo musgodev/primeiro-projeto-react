@@ -12,6 +12,7 @@
 
 .tarefa-titulo {
     cursor: pointer;
+    max-width: 80%;
 }
 
 .close-task-button {
